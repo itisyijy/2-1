@@ -1,0 +1,29 @@
+1) I have shown that the binomial distribution approaches the poission distribution 
+when n is large and p is small.
+
+It will help to your understanding.
+But you may skip the proof in the recording 15:58 - 20:00 in chapter 3 lecture part 4.
+
+2) I have shown that the sum of two independent poisson random variables 
+follows poisson distribution.
+
+It will help to your understanding.
+But you may skip the proof in the recording 28:12 - 32:08 in chapter 3 lecture part 4.
+
+3) I have also shown that the sum of two independent poisson random variables 
+follows poisson distribution by using the moment generating function.
+
+It will help to your understanding.
+But you may skip the proof in the recording 2:17 - 32:08 in chapter 3 lecture part 5.
+
+In chapter 3 lecture part 5,
+  - I introduced the moment generating function of probability distributions.
+  - Mean and variance of poisson distribution are derived by using moment generating function.
+  - The sum of two independent poisson random variables follows poisson distribution 
+     by using the moment generating function.
+
+4) In chapter 3 lecture part 6, 
+  - I have refered a site that derives the poisson process. 
+    But you may skip the recording 3:16 - 5:40 in chapter 3 lecture part 6.
+  - I have shown another derivation of the poisson process.
+    But you may skip the recording 15:06 - 19:05 in chapter 3 lecture part 6.

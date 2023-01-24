@@ -1,0 +1,36 @@
+--SELECT
+--    K.KICKBOARD_ID,
+--    K.STATUS,
+--    U.USER_ID,
+--    U.LICENSE
+--FROM
+--    KICKBOARD K
+--    JOIN USER_INFO U ON K.RECENT_USER = U.USER_ID
+--WHERE
+--    K.STATUS IN (
+--        SELECT
+--            KICKBOARD.STATUS
+--        FROM
+--            KICKBOARD
+--        WHERE
+--            KICKBOARD.MILEAGE < 10
+--    )
+
+
+--SELECT
+--    K.KICKBOARD_ID,
+--    K.STATUS,
+--    U.USER_ID,
+--    U.LICENSE
+--FROM
+--    KICKBOARD K
+--    JOIN USER_INFO U ON K.RECENT_USER = U.USER_ID
+--WHERE
+--    EXISTS (
+--        SELECT
+--            KICKBOARD.STATUS
+--        FROM
+--            KICKBOARD
+--        WHERE
+--            KICKBOARD.MILEAGE < 10
+--    )

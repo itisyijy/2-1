@@ -1,0 +1,23 @@
+--create table kickboard (
+--Kickboard_ID int not null,
+--mileage float,
+--Battery float,
+--Status int,
+--Recent_User int
+--);
+--
+--create table user_info (
+--User_id int not null,
+--average_distance float,
+--average_time float,
+--average_speed float,
+--license int
+--);
+--
+--insert into KICKBOARD
+--values (0,0,0,0,0);
+--
+--insert into USER_INFO
+--values (0,0,0,0,0);
+
+--"I import the data from xlsx file to sql file by using sql developer's data import."
